@@ -1,0 +1,40 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+    background-color: pink;
+}
+.big{
+    display: flex;
+}
+.small{
+    flex: 0.8;
+}
+.tiny{
+    flex: 0.3;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+}
+.section1{
+    display: flex;
+    height: 250px;
+    align-items: center;
+    margin-left: 40px;
+}
+.free{
+    display: flex;
+    margin-left: 40px;
+    padding-top: 60px;
+}
+.button{
+    border-color: pink;
+    background-color: pink;
+    color: white;
+    margin-right: 20px;
+}
+.image{
+    display: flex;
+}

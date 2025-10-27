@@ -1,0 +1,47 @@
+.navigation a{
+    text-decoration: none;
+    color: darkgreen;
+    font-size: large;
+
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    background-color:wheat;
+}
+.second{
+    margin-top: 13px;
+}
+.second a{
+    padding: 80px;
+}
+.about{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+    padding-left: 50px;
+    justify-content: space-around;
+
+
+}
+
+.button{
+    margin-top: 50px;
+    border-color: darkgreen;
+    background-color: white;
+    color: darkgreen;
+    
+}
+.words{
+    margin-top: 30px;
+    color: darkgreen;
+}
+.background{
+    background-color: green;
+    display: flex;
+    height: 100px;
+}
+div.img{
+    border-radius: 20px;
+}

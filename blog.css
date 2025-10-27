@@ -1,0 +1,26 @@
+.blog{
+    background-color: white;
+    display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+}
+.recipe{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 550px;
+    color: green;
+
+}
+.words{
+    font-size: 50px;
+    padding-left:80px;
+    color: green;
+}
